@@ -2,6 +2,8 @@
 
 Discover detailed insights about movies using the power of OpenAI's `gpt-3.5-turbo` model. Whether you're curious about the plot, cast, or any other details, our assistant is here to help.
 
+![Movie Info Finder Screenshot](screenshot.jpeg)
+
 ## Setup
 
 ### Running Locally

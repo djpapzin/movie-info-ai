@@ -1,4 +1,4 @@
-# Movie Info Finder
+# Movie Info AI
 
 Discover detailed insights about movies using the power of OpenAI's `gpt-3.5-turbo` model. Whether you're curious about the plot, cast, or any other details, our assistant is here to help.
 
@@ -39,7 +39,7 @@ Check out the demo [here](https://movie-info-ai.streamlit.app/)
 To run the app locally, use the following command:
 
 ```
-python movie_info_finder.py
+python movie_info_ai.py
 ```
 
 ### Streamlit
@@ -47,7 +47,7 @@ python movie_info_finder.py
 To run the app on Streamlit, use:
 
 ```
-streamlit run movie_info_finder.py
+streamlit run movie_info_ai.py
 ```
 
 ## Acknowledgments

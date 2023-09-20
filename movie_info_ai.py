@@ -31,8 +31,8 @@ def get_movie_info(movie_title):
     return response.content
 
 def run_streamlit_app():
-    st.title("Movie Info Finder")
-    st.write("Powered by OpenAI's `gpt-3.5-turbo` model, our Movie Info Finder provides insights into movies, including plot summaries and cast details. Dive into cinematic archives with just a movie title and experience the capabilities of advanced language models firsthand!")
+    st.title("Movie Info AI")
+    st.write("Powered by OpenAI's `gpt-3.5-turbo` model, our Movie Info AI provides insights into movies, including plot summaries and cast details. Dive into cinematic archives with just a movie title and experience the capabilities of advanced language models firsthand!")
     
     # Using markdown for italic text
     st.markdown("*Disclaimer: Movie information is limited up to September 2021.*")
